@@ -7,11 +7,11 @@ using System.Web.UI.WebControls;
 
 namespace ejemplo1
 {
-    public partial class About : Page
+    public partial class MiMaster : System.Web.UI.MasterPage
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            Title = "HOLA QUE TAL??";
+
         }
     }
 }
