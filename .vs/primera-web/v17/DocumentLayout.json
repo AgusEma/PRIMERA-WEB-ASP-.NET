@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\agust\\OneDrive\\Escritorio\\primera-web\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E1B74B24-ACF0-4963-8491-DA48C1711D0E}|ejemplo1\\ejemplo1.csproj|c:\\users\\agust\\onedrive\\escritorio\\primera-web\\ejemplo1\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
-      "RelativeMoniker": "D:0:0:{E1B74B24-ACF0-4963-8491-DA48C1711D0E}|ejemplo1\\ejemplo1.csproj|solutionrelative:ejemplo1\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+      "AbsoluteMoniker": "D:0:0:{E1B74B24-ACF0-4963-8491-DA48C1711D0E}|ejemplo1\\ejemplo1.csproj|c:\\users\\agust\\onedrive\\escritorio\\primera-web\\ejemplo1\\ejemploconmaster.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B74B24-ACF0-4963-8491-DA48C1711D0E}|ejemplo1\\ejemplo1.csproj|solutionrelative:ejemplo1\\ejemploconmaster.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B74B24-ACF0-4963-8491-DA48C1711D0E}|ejemplo1\\ejemplo1.csproj|c:\\users\\agust\\onedrive\\escritorio\\primera-web\\ejemplo1\\ejemploconmaster.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E1B74B24-ACF0-4963-8491-DA48C1711D0E}|ejemplo1\\ejemplo1.csproj|solutionrelative:ejemplo1\\ejemploconmaster.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +27,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Site.Master",
-              "DocumentMoniker": "C:\\Users\\agust\\OneDrive\\Escritorio\\primera-web\\ejemplo1\\Site.Master",
-              "RelativeDocumentMoniker": "ejemplo1\\Site.Master",
-              "ToolTip": "C:\\Users\\agust\\OneDrive\\Escritorio\\primera-web\\ejemplo1\\Site.Master",
-              "RelativeToolTip": "ejemplo1\\Site.Master",
+              "Title": "ejemploConMaster.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\agust\\OneDrive\\Escritorio\\primera-web\\ejemplo1\\ejemploConMaster.aspx.cs",
+              "RelativeDocumentMoniker": "ejemplo1\\ejemploConMaster.aspx.cs",
+              "ToolTip": "C:\\Users\\agust\\OneDrive\\Escritorio\\primera-web\\ejemplo1\\ejemploConMaster.aspx.cs",
+              "RelativeToolTip": "ejemplo1\\ejemploConMaster.aspx.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAwwBUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T14:18:47.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ejemploConMaster.aspx",
+              "DocumentMoniker": "C:\\Users\\agust\\OneDrive\\Escritorio\\primera-web\\ejemplo1\\ejemploConMaster.aspx",
+              "RelativeDocumentMoniker": "ejemplo1\\ejemploConMaster.aspx",
+              "ToolTip": "C:\\Users\\agust\\OneDrive\\Escritorio\\primera-web\\ejemplo1\\ejemploConMaster.aspx",
+              "RelativeToolTip": "ejemplo1\\ejemploConMaster.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-07-16T12:05:16.306Z",
+              "WhenOpened": "2024-07-20T14:17:24.016Z",
               "EditorCaption": ""
             }
           ]

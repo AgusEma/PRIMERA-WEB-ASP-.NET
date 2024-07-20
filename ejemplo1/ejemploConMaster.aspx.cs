@@ -11,7 +11,14 @@ namespace ejemplo1
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+            //txtNombre.Text = "Agus";
+            //txtHola.Text = "hola";
+        }
 
+        protected void btnAceptar_Click(object sender, EventArgs e)
+        {
+            string nombre = txtNombre.Text;
+            lblSaludo.Text = "Hola " + nombre;
         }
     }
 }
